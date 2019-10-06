@@ -1,0 +1,8 @@
+Download github in ubuntu:
+
+sudo apt-get upadet 
+
+sudo apt-get install git-core
+
+sudo git --version
+

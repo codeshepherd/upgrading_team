@@ -1,0 +1,10 @@
+See the "download_git" file before configuration.
+
+git config --global user.name "Chinna111"
+
+
+git config --global user.email "elavarasanchinna111@gmail.com"
+
+cat ~/.gitconfig
+
+git config --list
